@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bus-container
-        image: vedantrathi/bus:latest
+        image: vedantrathi/bus
         ports:
         - containerPort: 80
 ---
